@@ -1,1 +1,16 @@
 @import "global";
+
+@import "header";
+
+@import "servicios";
+
+@import "quienes-somos";
+
+img {
+    width: 100%;
+}
+
+body hr {
+    margin: 0;
+    margin-bottom: 1rem;
+}
